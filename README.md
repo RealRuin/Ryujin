@@ -6,6 +6,12 @@ A GUI for The Undead Coming on Roblox
 loadstring(game:HttpGet("https://raw.githubusercontent.com/RealRuin/Ryujin/refs/heads/main/ryujin.lua"))()
 ```
 
+## Update 26/10/29
+```markdown
+* fixed auto ammo
++ pickup gas
+```
+
 ## Update 26/10/28
 ```markdown
 * Auto Ammo might have some bugs
