@@ -6,6 +6,13 @@ A GUI for The Undead Coming on Roblox
 loadstring(game:HttpGet("https://raw.githubusercontent.com/RealRuin/Ryujin/refs/heads/main/ryujin.lua"))()
 ```
 
+## Update 26/10/30
+```markdown
+* Trying to add anti-gas, feature is useless rn
+* Zombie teleport is bugged atm
++ Zombie teleport
+```
+
 ## Update 26/10/29
 ```markdown
 * fixed auto ammo
